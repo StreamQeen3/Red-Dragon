@@ -42,7 +42,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94758663348'] // owner number
 global.ownername = "💆‍♂️𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 #24/7💆‍♂️" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "____________ // github or insta name
+global.socialm = "https://github.com/StreamQeen3" // github or insta name
 global.location = "Sri Lanka" // location
 
 //bot body 
