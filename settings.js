@@ -11,7 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `─ ⋞ 〈🛑 *🄷🄴🅈 🅃🄷🄴🅁🄴* 🛑〉 ⋟ ─` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤I am alive now😇
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -28,14 +29,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94758663348'] // owner number
-global.ownername = "💆‍♂️𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 #24/7💆‍♂️" // owner name
+global.vcardowner = ['+380944814219'] // owner number
+global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "https://github.com/StreamQeen3" // github or insta name
-global.location = "Sri Lanka" // location
+global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://p4.wallpaperbetter.com/wallpaper/554/763/696/anime-bare-blue-detached-wallpaper-preview.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -43,19 +44,19 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+94758663348']
-global.ownertag = '+94758663348' //your tag number
-global.botname = '❖𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵❖' //ur bot name
-global.packname = "❖𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵❖" // sticker packname
-global.author = "#24/7💆‍" // sticker author
-global.dragonemoji = '🇱🇰' // Menu emoji
-global.footer = '❖𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵❖' //
+global.owner = ['+380944814219']
+global.ownertag = '+380944814219' //your tag number
+global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.packname = "Bot Sticker" // sticker packname
+global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.dragonemoji = '🧩' // Menu emoji
+global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
-global.button = '🖥️GITHUB〽️' //Costomize A Button Name In Alive Message
-global.btnurl = '____________' //Change Your Button's URL
+global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+94758663348'] //ur premium numbers
+global.premium = ['+380944814219'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -63,21 +64,21 @@ global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
-    success: '*සාර්ථකව අවසන් විය!* ✓',
-    admin: '*මෙය ඇඩ්මින් වරු සදහා පමණක් වේ!!*',
-    botAdmin: '*පළමුව මාහට ඇඩ්මින් තනතුර ලබා දෙන්න!!*',
-    owner: '*බෝට්ගේ හිමිකරු සදහා පමණක් වේ!!*',
-    group: '*කණ්ඩායමක බාවිතය සදහා පමණි!!*',
-    private: '*පුද්ගලික සංවාදවල බාවිතය සදහා පමණි!!*',
-    bot: '*මෙම විශේෂාංගය බෝට් සඳහා පමණි!!*',
-    wait: '*මදක් රැදී සිටින්න...ඔබගේ ඉල්ලීම සැකසෙමින් පවතී!!*',
+    success: 'Done ✅',
+    admin: 'Only Admins can use it!😉',
+    botAdmin: 'Bot wants to be an Admin😥',
+    owner: 'Only Owner can use this!😉',
+    group: 'Feature Used Only For Groups!',
+    private: 'This Features Only For Private Chat!',
+    bot: 'This Feature Is Only For Bot😝',
+    wait: '👉👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
-    caption: 'Generated by:❖𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝘞𝘈 𝘣𝘰𝘵❖'
+    caption: 'Generated by: ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ*'
 } // END \\
     global.limitawal = {
     premium: "Infinity",
